@@ -33,3 +33,4 @@ function obtenerPersonas() {
 }
 console.log(agregarPersona({ nombre: "Charlie", edad: 51, ocupacion: "Designer" })); // Persona agregada correctamente
 console.log(obtenerPersonas()); // Muestra la lista de personas
+console.log("haciendo pruebas con git")
